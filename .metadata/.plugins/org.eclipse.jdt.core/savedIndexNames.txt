@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\thiag\Desktop\teste donus\jogoDasAdivinhacoes\.metadata\.plugins\org.eclipse.jdt.core
+996700402.index
